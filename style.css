@@ -8,7 +8,7 @@
     --clr-azul-metalico: #172a45;
     --clr-azul-celeste: #30b0f0;
     --clr-verde-neon: #00e676;
-    --clr-amarelo: #ffea00;
+    --clr-amarelo: #ffee00;
     --clr-ouro: #d4af37;
     --clr-branco: #ffffff;
     --clr-cinza-claro: #f4f6f9;
@@ -211,7 +211,7 @@ a:hover {
 .btn-primary {
     background: var(--clr-azul-celeste);
     color: var(--clr-preto);
-    box-shadow: 0 4px 14px rgba(48, 176, 240, 0.4);
+    box-shadow: 0 4px 14px rgba(48, 76, 240, 0.4);
 }
 .btn-primary:hover {
     background: var(--clr-verde-neon);
